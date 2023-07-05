@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rgmeireles
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 📫 How to reach me rgmeireles@hotmail.com
