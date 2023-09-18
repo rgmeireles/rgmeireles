@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rgmeireles
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently studying Systems Analysis and Development at Veiga de Almeida University
 - 📫 How to reach me rgmeireles@hotmail.com
