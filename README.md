@@ -10,5 +10,5 @@
 </div>
 
 <div
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="https://www.linkedin.com/in/rafael-meireles-147b7637/"</a> 
+<a href="https://www.linkedin.com/in/rafael-meireles-147b7637/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
