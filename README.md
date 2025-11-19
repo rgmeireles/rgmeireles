@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rgmeireles
 - 👀 I’m interested in programming
 - 🌱 I’m currently studying Systems Analysis and Development at Veiga de Almeida University
+- Studyng Front End Development at Firjan Senai
 - 📫 How to reach me rgmeireles@hotmail.com and www.linkedin.com/in/rafael-meireles-147b7637/
 
 <div style="display: inline_block"><br>
